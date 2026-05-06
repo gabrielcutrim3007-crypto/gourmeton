@@ -84,6 +84,7 @@ npm run dev
 O deploy da aplicação foi realizado utilizando:
 
 * Vercel
+* Link: https://gourmeton-lac.vercel.app/
 
 ---
 
