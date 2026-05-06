@@ -10,7 +10,7 @@ function Testimonials() {
     },
     {
       name: "Ana Clara",
-      text: "Interface linda, simples e com promoções muito boas."
+      text: "Interface linda, simples e com promoções excelentes."
     }
   ]
 
