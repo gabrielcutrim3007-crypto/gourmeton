@@ -113,11 +113,9 @@ O objetivo deste projeto é praticar:
 
 ---
 
-# 👥 Integrantes
+# 👨‍💻 Autor
 
-* Nome 1
-* Nome 2
-* Nome 3
+* Gabriel Cutrim, RM: 568059
 
 ---
 
